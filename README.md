@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**azavtyr/azavtyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught tech enthusiast with a strong interest in Linux, networking, and cybersecurity. I spend most of my time working on my homelab, automating tasks, exploring system administration, and diving into programming. Always learning, always building.
 
-Here are some ideas to get you started:
+## Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Windows Server and AD environment LAB](https://github.com/azavtyr/windows-server-lab)
+- Seeking CompTIA A+
+- Building Homelab
+
+## Code and configuration
+
+- [Dot files](https://github.com/azavtyr/dot)
