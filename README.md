@@ -8,6 +8,10 @@ I'm a self-taught tech enthusiast with a strong interest in Linux, networking, a
 - Seeking CompTIA A+
 - Building Homelab
 
+## Writing
+
+- [Notes](https://github.com/azavtyr/notes) - second brain and knowledge base written in GitHub Flavored Markdown with Obsidian
+
 ## Code and configuration
 
 - [Dot files](https://github.com/azavtyr/dot)
