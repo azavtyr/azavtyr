@@ -6,7 +6,7 @@ I'm a self-taught tech enthusiast with a strong interest in Linux, networking, a
 
 - [Windows Server and AD environment LAB](https://github.com/azavtyr/windows-server-lab)
 - Seeking CompTIA A+
-- Building Homelab
+- [Building Homelab](https://github.com/azavtyr/homelab)
 
 ## Code and configuration
 
